@@ -98,11 +98,18 @@
 
 #### 4 访问方式
 ##### 后台管理
+<img width="540" alt="image" src="https://user-images.githubusercontent.com/38714822/159835881-9dd3f85d-2f08-4f7b-b2ae-403373167c3c.png">
 <img width="1278" alt="image" src="https://user-images.githubusercontent.com/38714822/159835304-59755162-bd40-4d38-920a-4a8f7f823f36.png">
 
 ##### 前台大堂点餐
+<img width="328" alt="image" src="https://user-images.githubusercontent.com/38714822/159836002-62cef75c-e680-41bf-b33c-4115ae0bba7a.png">
 <img width="1270" alt="image" src="https://user-images.githubusercontent.com/38714822/159835421-b460539b-753c-4e14-900e-e4bcee53bcd5.png">
 
 ##### 移动端点餐
 <img width="489" alt="image" src="https://user-images.githubusercontent.com/38714822/159835475-7df0ec07-38e9-42d8-9fe3-6a04ad294491.png">
+<img width="807" alt="image" src="https://user-images.githubusercontent.com/38714822/159836232-d0cd3f94-8eef-4d2c-aaed-0b46e1d8122b.png">
+<img width="809" alt="image" src="https://user-images.githubusercontent.com/38714822/159836299-33c0f454-54b4-475d-a254-3a2c28ac1b7d.png">
+<img width="810" alt="image" src="https://user-images.githubusercontent.com/38714822/159836395-e4caf628-1ffc-45b4-85f7-1cc096bafd57.png">
+
+
 
