@@ -95,3 +95,14 @@
 1.导入数据库   
 2.启动服务： python manage.py runserver 0.0.0.0:8000   
 3.打开浏览器：网址：http://10.62.34.164:8000
+
+#### 4 访问方式
+##### 后台管理
+<img width="1278" alt="image" src="https://user-images.githubusercontent.com/38714822/159835304-59755162-bd40-4d38-920a-4a8f7f823f36.png">
+
+##### 前台大堂点餐
+<img width="1270" alt="image" src="https://user-images.githubusercontent.com/38714822/159835421-b460539b-753c-4e14-900e-e4bcee53bcd5.png">
+
+##### 移动端点餐
+<img width="489" alt="image" src="https://user-images.githubusercontent.com/38714822/159835475-7df0ec07-38e9-42d8-9fe3-6a04ad294491.png">
+
