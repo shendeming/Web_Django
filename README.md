@@ -103,7 +103,7 @@
 
 ##### （2）前台大堂点餐
 <img width="328" alt="image" src="https://user-images.githubusercontent.com/38714822/159836002-62cef75c-e680-41bf-b33c-4115ae0bba7a.png">
-<img width="1270" alt="image" src="https://user-images.githubusercontent.com/38714822/159835421-b460539b-753c-4e14-900e-e4bcee53bcd5.png">
+<img width="1268" alt="image" src="https://user-images.githubusercontent.com/38714822/159836804-d6aad3d5-bcd1-49d0-be71-05d895325e5d.png">
 
 ##### （3）移动端点餐
 <img width="489" alt="image" src="https://user-images.githubusercontent.com/38714822/159835475-7df0ec07-38e9-42d8-9fe3-6a04ad294491.png">
